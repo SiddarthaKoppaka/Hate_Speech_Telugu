@@ -1,4 +1,4 @@
-#Unmasking Hate: Telugu Language Hate Speech Recognition
+# Unmasking Hate: Telugu Language Hate Speech Recognition
 ##Abstract
 In the digital era, the spread of abusive language and hate speech on social media is alarming, especially for low-resource languages like Telugu. Our project, "Unmasking Hate," aims to combat abusive language in Telugu by collecting a comprehensive dataset from Twitter and training Transformer models. Our goal is to contribute towards a safer online environment by leveraging advanced natural language processing techniques.
 
