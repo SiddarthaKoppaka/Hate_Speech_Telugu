@@ -29,12 +29,3 @@ We evaluated the models using F1 score, recall, precision, and accuracy. Our res
 
 ## Conclusion
 Our research presents a significant step towards detecting hate speech in Telugu. Through the creation of a custom dataset and the application of Transformer models, we demonstrated the effectiveness of these approaches in addressing hate speech, with mBERT showcasing outstanding performance.
-
-## Contributors
-(List of project contributors and their roles)
-
-## Acknowledgments
-(Any acknowledgments to data sources, financial support, etc.)
-
-## References
-(Complete list of referenced works as cited throughout the document.)
